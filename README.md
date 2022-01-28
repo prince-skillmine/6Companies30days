@@ -103,3 +103,9 @@
 - [ ] 13.Minimum operations to convert array A to B <a href="https://practice.geeksforgeeks.org/problems/minimum-insertions-to-make-two-arrays-equal/1/">Link</a>
 - [ ] 14.Smallest range in K lists <a href="https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1/">Link</a>
 - [ ] 15.Given two library versions of an executable: for example, “10.1.1.3” and “10.1.1.9” or “10” and “10.1”. Find out which one is more recent? Strings can be empty also.<a href="https://www.geeksforgeeks.org/adobe-interview-experience-for-mts-1-1-5-years-experienced/">Link</a>
+
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
